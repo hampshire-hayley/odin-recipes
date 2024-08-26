@@ -1,1 +1,2 @@
 # odin-recipes
+This is my first real website made following The Odin Project curriculum. I hope by the end of this project I will be able to create a basic website with images, text, headings, links etc. 
